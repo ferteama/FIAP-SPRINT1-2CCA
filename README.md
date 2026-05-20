@@ -1,4 +1,4 @@
-# FIAP-SPRINT1-2CCA
+# FIAP - SPRINT1_2CCA
 
 ## **1. Qual problema vocês escolheram resolver?**
 
@@ -24,8 +24,9 @@
 - Classificação de risco: Indicadores visuais simples de prioridade (Baixa, Média, Alta) ditados pelas decisões baseadas em inteligência artificial.
 
 ## **3. Protótipo navegável (Figma ou outro a critério do grupo)**
-- link do figma: 
-
+- link do lovable: https://drone-vision-watch.lovable.app/
+- link do repositório genérico: https://github.com/ferteama/drone-vision-watch.git
+  #### Lembrando, o foco principal dessa demonstração no lovable é apenas o visual, não iremos assumir essa estrutura como arquitetado no repositório
 ## **4. Estrutura técnica do projeto**
 ```
   src/
